@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm ruz!
+
+## Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idk0919)](https://solved.ac/ruz/)
 
 <!--
 **ruzs/ruzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
